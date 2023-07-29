@@ -19,7 +19,8 @@
 -  DeFi
 -  NFTs
 
-### 🔗 &nbsp;Connect with me
+🔗 &nbsp;**Connect with me:**
+
 [![Gmail Badge](https://img.shields.io/badge/-nir.almog90-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:nir.almog90@gmail.com)](mailto:nir.almog90@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-nir--almog--9a4202151-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nir-almog-9a4202151/)](https://www.linkedin.com/in/nir-almog-9a4202151/)
 [![Website Badge](https://img.shields.io/badge/-nir--almog--portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://nir-almog-portfolio.netlify.app)](https://nir-almog-portfolio.netlify.app)
