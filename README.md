@@ -23,6 +23,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-nir.almog90-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:nir.almog90@gmail.com)](mailto:nir.almog90@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-nir--almog--9a4202151-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nir-almog-9a4202151/)](https://www.linkedin.com/in/nir-almog-9a4202151/)
-[![Website Badge](https://img.shields.io/badge/-nir--almog--portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://nir-almog-portfolio.netlify.app)](https://nir-almog-portfolio.netlify.app)
+[![Website Badge](https://img.shields.io/badge/-niralmog.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://niralmog.dev)](https://niralmog.dev)
 [![Stack Overflow Badge](https://img.shields.io/badge/-nir--almog-%23E34F26?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14042455/nir)](https://stackoverflow.com/users/14042455/nir)
 [![Medium Badge](https://img.shields.io/badge/-@nir.almog90-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@nir.almog90)](https://medium.com/@nir.almog90)
