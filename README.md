@@ -3,8 +3,6 @@
 
 💻 &nbsp; I specialize in **Node.js, React, PostgreSQL, AWS, Flutter, and C++**, with expertise in **gRPC communication, real-time streaming, microservices architecture, Docker, and CI/CD**.  
 
-🚀 &nbsp; **Creator of** [file-type-checker](https://www.npmjs.com/package/file-type-checker), a popular npm package for identifying file types based on binary signatures.  
-
 ---
 
 🔭 &nbsp;**I’m currently working with:**  
